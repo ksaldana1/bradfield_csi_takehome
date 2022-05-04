@@ -13,4 +13,4 @@ There are two scripts to run each exercise individually:
 
 > npm run start:utf
 >
-> Runs assertion suite in [UTF character length file)(https://github.com/ksaldana1/bradfield_csi_takehome/blob/master/src/utfCharacterLength.ts)
+> Runs assertion suite in [UTF character length file](https://github.com/ksaldana1/bradfield_csi_takehome/blob/master/src/utfCharacterLength.ts)
