@@ -2,7 +2,7 @@
 
 Answers to my Bradfield CSI take home exericse. My answers to the Wireshark and Dynamo questions are located [here](https://github.com/ksaldana1/bradfield_csi_takehome/blob/master/Bradfield%20CSI%20Questions.pdf).
 
-To verify the coding exercises, clone this repo and run npm install to download the depdendencies.
+To verify the coding exercises, clone this repo and run `npm install` to download the depdendencies.
 
 There are two scripts to run each exercise individually:
 
