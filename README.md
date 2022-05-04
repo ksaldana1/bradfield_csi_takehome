@@ -8,7 +8,7 @@ There are two scripts to run each exercise individually:
 
 > npm run start / npm run start:server
 > 
-> Starts an http server at localhost:5555. Serves a single endpoint `/?timezone={timeZoneString}`. Defaults to UTC if given [invalid time zone](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) or no time zone.
+> Starts an http server at http://localhost:5555. Serves a single endpoint `/?timezone={timeZoneString}`. Defaults to UTC if given [invalid time zone](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) or no time zone.
 
 
 > npm run start:utf
