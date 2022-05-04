@@ -1,0 +1,21 @@
+{
+  "name": "bradfield_csi_takehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/timezoneServer.ts",
+    "start:server": "ts-node ./src/timezoneServer.ts",
+    "start:utf": "ts-node ./src/utfCharacterLength.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "date-fns-tz": "^1.3.4"
+  }
+}
